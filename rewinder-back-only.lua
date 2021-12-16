@@ -1,4 +1,4 @@
-MAX_SAVED_STATES = 200
+MAX_SAVED_STATES = 3000
 
 savedStatesQueue = {}
 
